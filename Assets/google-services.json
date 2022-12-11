@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "745467613131",
+    "project_id": "nurpar",
+    "storage_bucket": "nurpar.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:745467613131:android:4dd790ace7996beadd704e",
+        "android_client_info": {
+          "package_name": "pari.bet.paribet.nibes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "745467613131-4mnuhbcqaj8neml9tk7cg4fi7aa5jfit.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJHsSsnpl436NaoCjGUySis1k361T7qU8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "745467613131-4mnuhbcqaj8neml9tk7cg4fi7aa5jfit.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
